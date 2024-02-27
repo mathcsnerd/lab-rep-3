@@ -61,3 +61,4 @@ Over here, we are using the `-type` command to filter the search of `find` for o
 
 
 
+3.) One option for the `find` command is the `. -maxdepth ` command. Here are examples of its usages
