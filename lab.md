@@ -51,3 +51,4 @@ Over here, we used the name command to direct the find command to a specific fil
 
 ![Image](type1)
 
+
