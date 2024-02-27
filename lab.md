@@ -49,3 +49,5 @@ Over here, we used the name command to direct the find command to a specific fil
 
 2.)  One option for the `find` command is the `-type ` command. Here are examples of its usages:
 
+![Image](type1)
+
