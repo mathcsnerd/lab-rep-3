@@ -1,6 +1,6 @@
 PART 1: Bugs
 
-1.) A failure for the reverseInPlace() is the array {1, 2, 3}.
+1.) A failure input for the reverseInPlace() is the array {1, 2, 3}.
 
 Here is the appropriate JUnit Test:
 
@@ -22,6 +22,8 @@ Here is the appropriate JUnit Test:
     assertArrayEquals(input1, new int[]{5});
   } `
 
-3.) ![Image][SymptomOutput.png]
+3.) ![Image](SymptomOutput.png)
+
+3.) 
 
 
