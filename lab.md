@@ -22,6 +22,6 @@ Here is the appropriate JUnit Test:
     assertArrayEquals(input1, new int[]{5});
   } `
 
-3.) ![Image][SymptomOutput]
+3.) ![Image][SymptomOutput.png]
 
 
