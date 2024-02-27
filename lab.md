@@ -42,5 +42,5 @@ PART 2: Command Options
 
 Over here, we used the name command to direct the find command to a specific file in the 911report directory, and it found it and returned the pathway.
 
-
+![Image](name2)
 
