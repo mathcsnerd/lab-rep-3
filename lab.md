@@ -51,4 +51,13 @@ Over here, we used the name command to direct the find command to a specific fil
 
 ![Image](type1)
 
+Over here, we are using the `-type` command to filter the search of `find` for only directories
+
+![Image](type2)
+![Image](type2output)
+
+Over here, we are using the `-type` command to filter the search of `find` for only files
+
+
+
 
