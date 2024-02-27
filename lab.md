@@ -30,5 +30,5 @@ Here is the appropriate JUnit Test:
 
 FIXED CODE
 
-
+![Image](CorrectedCode)
 
