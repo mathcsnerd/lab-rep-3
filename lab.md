@@ -38,5 +38,6 @@ PART 2: Command Options
 
 1.) One option for the `find` command is the `. -name` command. Here are examples of its usages:
 
+![Image](name#1)
 
 
