@@ -44,3 +44,8 @@ Over here, we used the name command to direct the find command to a specific fil
 
 ![Image](name2)
 
+Over here, we used the name command to direct the find command to a specific file in the biomed directory, and it found it and returned the pathway.
+
+
+2.)  One option for the `find` command is the `-type ` command. Here are examples of its usages:
+
