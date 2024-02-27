@@ -24,6 +24,11 @@ Here is the appropriate JUnit Test:
 
 3.) ![Image](SymptomOutput.png)
 
-3.) 
+4.) INITIAL (BUGGY) CODE
+
+![Image](InitialCode)
+
+FIXED CODE
+
 
 
