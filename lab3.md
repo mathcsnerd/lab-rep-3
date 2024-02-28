@@ -38,14 +38,14 @@ PART 2: Command Options
 
 1.) One option for the `find` command is the `. -name` command. Here are examples of its usages:
 
-Over here, we used the `name` command to direct the `find` command to a specific file in the `911report` directory, and it found it and returned the pathway.
+Over here, we used the `name` command to direct the `find` command to a specific file named `chapter-1.txt`, and it found it and returned the pathway.
 
 ![Image](name1.png)
 
 
 
 
-Over here, we used the `name` command to direct the `find` command to a specific file in the `biomed` directory, and it found it and returned the pathway.
+Over here, we used the `name` command to direct the `find` command to find a specific file named `1468-6708-3-1.txt`, and it found it and returned the pathway.
 
 ![Image](name2)
 
