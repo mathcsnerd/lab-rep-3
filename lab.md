@@ -86,6 +86,11 @@ Over here, we are using the `-minDepth` command to filter the search depth of `f
 
 
 ![Image](min1)
+![Image](min2)
+
+
+Over here, we are using the `-minDepth` command to filter the search depth of `find` to a minimum of 100 levels. Since nothing is stored that deep, nothing is returned.
+
 
 
 
