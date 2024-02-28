@@ -62,3 +62,12 @@ Over here, we are using the `-type` command to filter the search of `find` for o
 
 
 3.) One option for the `find` command is the `. -maxdepth ` command. Here are examples of its usages
+![Image](find1)
+![Image](find2)
+
+Over here, we are using the `-maxDepth` command to filter the search of `find` for only 2 directories below the current directory
+
+
+
+
+
