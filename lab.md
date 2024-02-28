@@ -82,6 +82,11 @@ Over here, we are using the `-maxDepth` command to filter the search of `find` f
 4.) One option for the `find` command is the `. -mindepth ` command. Here are examples of its usages:
 
 
+Over here, we are using the `-minDepth` command to filter the search depth of `find` to a minimum of 2 levels, so it will go to a depth of atleast 2 levels below the starting directory.
+
+
+![Image](min1)
+
 
 
 
