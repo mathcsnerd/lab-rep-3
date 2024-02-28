@@ -15,12 +15,12 @@ Here is the appropriate JUnit Test:
 2.) An input that does not induce a failure in reverseInPlace() is the array {5}. 
 
 
-` @Test
+  `@Test
   public void failTest1ReverseInPlace() {
     int[] input1 = {5};
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(input1, new int[]{5});
-  } `
+  }`
 
 3.) ![Image](SymptomOutput.png)
 
