@@ -95,6 +95,9 @@ Over here, we are using the `-minDepth` command to filter the search depth of `f
 
 
 
+SOURCES USED: https://www.geeksforgeeks.org/find-command-in-linux-with-examples/
+
+
 
 
 
