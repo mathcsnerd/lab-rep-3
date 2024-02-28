@@ -74,7 +74,7 @@ Over here, we are using the `-maxDepth` command to filter the search depth of `f
 
 
 
-Over here, we are using the `-maxDepth` command to filter the search depth of `find` to a maximum of 0 levels (so it only remains at the current directory without going any deeper).
+Over here, we are using the `-maxDepth` command to filter the search depth of `find` to a maximum of 0 levels (so it only remains at the root level without going any deeper).
 
 ![Image](maxDepth2)
 
