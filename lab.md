@@ -67,6 +67,13 @@ Over here, we are using the `-type` command to filter the search of `find` for o
 
 Over here, we are using the `-maxDepth` command to filter the search of `find` for only 2 directories below the current directory
 
+![Image](maxDepth2)
+
+Over here, we are using the `-maxDepth` command to filter the search of `find` for 0 directories below the current directory (so it searches for nothing).
+
+
+4.)
+
 
 
 
