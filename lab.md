@@ -38,41 +38,51 @@ PART 2: Command Options
 
 1.) One option for the `find` command is the `. -name` command. Here are examples of its usages:
 
+Over here, we used the name command to direct the find command to a specific file in the 911report directory, and it found it and returned the pathway.
+
 ![Image](name1.png)
 
-Over here, we used the name command to direct the find command to a specific file in the 911report directory, and it found it and returned the pathway.
+
+
+
+Over here, we used the name command to direct the find command to a specific file in the biomed directory, and it found it and returned the pathway.
 
 ![Image](name2)
 
-Over here, we used the name command to direct the find command to a specific file in the biomed directory, and it found it and returned the pathway.
 
 
 2.)  One option for the `find` command is the `-type ` command. Here are examples of its usages:
 
+Over here, we are using the `-type` command to filter the search of `find` for only directories
+
 ![Image](type1)
 
-Over here, we are using the `-type` command to filter the search of `find` for only directories
+
+Over here, we are using the `-type` command to filter the search of `find` for only files
 
 ![Image](type2)
 ![Image](type2output)
 
-Over here, we are using the `-type` command to filter the search of `find` for only files
-
-
 
 
 3.) One option for the `find` command is the `. -maxdepth ` command. Here are examples of its usages
+
+Over here, we are using the `-maxDepth` command to filter the search depth of `find` to a maximum of 2 levels, but it won't go any deeper than this
+
 ![Image](find1)
 ![Image](find2)
 
-Over here, we are using the `-maxDepth` command to filter the search of `find` for only 2 directories below the current directory
 
-![Image](maxDepth2)
 
 Over here, we are using the `-maxDepth` command to filter the search of `find` for 0 directories below the current directory (so it searches for nothing).
 
+![Image](maxDepth2)
 
-4.)
+
+4.) One option for the `find` command is the `. -mindepth ` command. Here are examples of its usages:
+
+
+
 
 
 
